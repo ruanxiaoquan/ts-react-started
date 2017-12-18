@@ -1,8 +1,7 @@
 import * as React from 'react';
 import { Button } from 'antd-mobile';
-import './App.scss';
-
-const logo = require('./logo.svg');
+import "../../assets/css/App.scss";
+let logo = require("../../assets/images/logo.svg");
 
 class App extends React.Component {
 
