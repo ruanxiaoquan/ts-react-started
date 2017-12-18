@@ -1,7 +1,7 @@
 #### 欢迎使用ts-react-started项目
 
 ##### 第一步
-    npm i
+	npm install
 
 
 ##### 第二步
