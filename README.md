@@ -1,4 +1,4 @@
-#### 欢迎使用ts-react-started项目
+#### 欢迎使用ts-react-started项目
 
 ##### 第一步
     npm i
